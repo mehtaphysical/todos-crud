@@ -8,6 +8,7 @@
     "@testing-library/user-event": "^12.1.10",
     "near-cli": "^1.5.4",
     "near-react-hooks": "^1.1.0",
+    "prettier": "^2.2.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.3",
