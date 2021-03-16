@@ -1,0 +1,20 @@
+{
+  "name": "contract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "asb",
+    "deploy": "near dev-deploy build/release/contract.wasm",
+    "test": "asp"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "asbuild": "^0.0.11",
+    "assemblyscript": "^0.18.15",
+    "near-cli": "^1.5.4",
+    "near-sdk-as": "^3.0.0"
+  }
+}
